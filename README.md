@@ -1,4 +1,4 @@
-# test-datasets
+# Test datasets
 
 ## RNA-Seq
 
