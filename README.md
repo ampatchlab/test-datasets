@@ -8,3 +8,7 @@
 ## WGS
 
 * [NIST_NA12878](https://github.com/ampatchlab/test-datasets/tree/wgs/NIST_NA12878)
+
+## Exome
+
+* [Garvan_NA12878](https://github.com/ampatchlab/test-datasets/tree/exome/Garvan_NA12878)
