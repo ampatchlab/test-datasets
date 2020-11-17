@@ -1,23 +1,23 @@
 # Test datasets
 
-## RNA-Seq
+### RNA-Seq
 
 * [HBR UHR ERCC](https://github.com/ampatchlab/test-datasets/tree/rnaseq/HBR_UHR_ERCC)
 * [HCC1395](https://github.com/ampatchlab/test-datasets/tree/rnaseq/HCC1395)
 
-## WES
+### WES
 
 * [Garvan_NA12878](https://github.com/ampatchlab/test-datasets/tree/wes/Garvan_NA12878)
 
-## WGS
+### WGS
 
 * [HCC1143](https://github.com/ampatchlab/test-datasets/tree/wgs/HCC1143)
 * [NIST_NA12878](https://github.com/ampatchlab/test-datasets/tree/wgs/NIST_NA12878)
 
-## HLA
+### HLA
 
 * [NIST_NA12878](https://github.com/ampatchlab/test-datasets/tree/hla/NIST_NA12878)
 
-## PDX
+### PDX
 
 * [NA12878_C57BL_6NJ](https://github.com/ampatchlab/test-datasets/tree/pdx/NA12878_C57BL_6NJ)
