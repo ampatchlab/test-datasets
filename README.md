@@ -17,3 +17,7 @@
 ## HLA
 
 * [NIST_NA12878](https://github.com/ampatchlab/test-datasets/tree/hla/NIST_NA12878)
+
+## PDX
+
+* [NA12878_C57BL_6NJ](https://github.com/ampatchlab/test-datasets/tree/pdx/NA12878_C57BL_6NJ)
